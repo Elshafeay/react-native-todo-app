@@ -1,5 +1,5 @@
-# This is a simlple todo app using **React Native**
----
-#### Here is a simple demo of the output
+## This is a simple todo app using <*React Native*>
+<br>
 
-![demo](assets/demo.png)
+<p  align="center">Here is a simple demo of the output</p>
+<p  align="center"><img  src="assets/demo.png"></p>
